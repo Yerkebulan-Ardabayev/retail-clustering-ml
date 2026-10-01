@@ -26,5 +26,3 @@ pip install pandas numpy matplotlib scikit-learn
 🚀 Как запустить
 jupyter notebook homework_3.ipynb
 
-👤 Автор
-Yerkebulan Ardabayev — DevOps-инженер, Казахстан 🇰🇿
